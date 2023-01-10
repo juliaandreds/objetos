@@ -5,14 +5,14 @@ const cliente = {
     telefone: ["1155555550", "1144444440"],
   };
   
-/*   cliente.enderecos = [
+  cliente.enderecos = [
     {
       rua: "R. Joseph Climber",
       numero: 1337,
       apartamento: true,
       complemento: "ap 934",
     },
-  ]; */
+  ];
 
   const chaveDoObjeto = Object.keys (cliente);
 
